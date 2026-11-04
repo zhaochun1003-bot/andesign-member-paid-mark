@@ -6,7 +6,9 @@
 
 [下载完整离线网页](https://github.com/zhaochun1003-bot/andesign-member-paid-mark/raw/refs/heads/main/index.html)（单文件 HTML，下载后用浏览器打开；图示和样式均已内嵌）
 
-本仓库为私有访问存档，查看时需登录拥有权限的 GitHub 账号。
+本存档公开可读，无需登录。
+
+[打开完整网页](https://zhaochun1003-bot.github.io/andesign-member-paid-mark/)
 
 ---
 
